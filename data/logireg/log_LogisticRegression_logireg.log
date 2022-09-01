@@ -1,0 +1,64 @@
+========================================
+    class name: LogisticRegression
+    name attribute: logireg
+    time: 2022/09/01 23:16:37.546335
+----------------------------------------
+best_hyperparameters: 
+  param_penalty: l2
+  param_solver: lbfgs
+  param_C: 0.01
+best_parameters: 
+  Pclass: 0.3114994089997879
+  Name_normal: -0.10134631839749235
+  Name_high: 0.10134631839749235
+  Sex_male: -0.46557186327972516
+  Sex_female: 0.46557186327972516
+  Age: -0.07396792988441594
+  SibSp: -0.15753609221731305
+  Fare: -0.020684696486426967
+  Cabin_A: 0.1358806158656241
+  Cabin_B: 0.04376380725640331
+  Cabin_C: 0.11017735489251505
+  Cabin_D: 0.0717954562716227
+  Cabin_E: 0.12948603597200498
+  Cabin_F: 0.1694609012275333
+  Cabin_G: 0.08390538315681885
+  Cabin_other: -0.03582566159372473
+  Embarked_C: -0.0342546753997616
+  Embarked_Q: 0.07085436027193463
+  Embarked_S: -0.0036862209783027904
+train: 0.8141592920353983
+verify: 0.83
+
+========================================
+    class name: LogisticRegression
+    name attribute: logireg
+    time: 2022/09/01 23:17:21.162794
+----------------------------------------
+best_hyperparameters: 
+  param_penalty: l2
+  param_solver: lbfgs
+  param_C: 0.01
+best_parameters: 
+  Pclass: 0.3114994089997879
+  Name_normal: -0.10134631839749235
+  Name_high: 0.10134631839749235
+  Sex_male: -0.46557186327972516
+  Sex_female: 0.46557186327972516
+  Age: -0.07396792988441594
+  SibSp: -0.15753609221731305
+  Fare: -0.020684696486426967
+  Cabin_A: 0.1358806158656241
+  Cabin_B: 0.04376380725640331
+  Cabin_C: 0.11017735489251505
+  Cabin_D: 0.0717954562716227
+  Cabin_E: 0.12948603597200498
+  Cabin_F: 0.1694609012275333
+  Cabin_G: 0.08390538315681885
+  Cabin_other: -0.03582566159372473
+  Embarked_C: -0.0342546753997616
+  Embarked_Q: 0.07085436027193463
+  Embarked_S: -0.0036862209783027904
+train: 0.8141592920353983
+verify: 0.83
+

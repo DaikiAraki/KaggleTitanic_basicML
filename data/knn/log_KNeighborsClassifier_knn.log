@@ -1,0 +1,24 @@
+========================================
+    class name: KNeighborsClassifier
+    name attribute: knn
+    time: 2022/09/01 23:16:30.833502
+----------------------------------------
+best_hyperparameters: 
+  param_n_neighbors: 6
+  param_weights: uniform
+best_parameters: 
+train: 0.8508217446270544
+verify: 0.84
+
+========================================
+    class name: KNeighborsClassifier
+    name attribute: knn
+    time: 2022/09/01 23:17:21.158327
+----------------------------------------
+best_hyperparameters: 
+  param_n_neighbors: 6
+  param_weights: uniform
+best_parameters: 
+train: 0.8508217446270544
+verify: 0.84
+

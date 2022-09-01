@@ -1,0 +1,28 @@
+========================================
+    class name: SVC
+    name attribute: svc
+    time: 2022/09/01 23:17:20.229455
+----------------------------------------
+best_hyperparameters: 
+  param_C: 0.1310726077044572
+  param_gamma: 0.13828136516241774
+  param_kernel: poly
+  param_degree: 3
+best_parameters: 
+train: 0.8672566371681416
+verify: 0.85
+
+========================================
+    class name: SVC
+    name attribute: svc
+    time: 2022/09/01 23:17:21.171719
+----------------------------------------
+best_hyperparameters: 
+  param_C: 0.1310726077044572
+  param_gamma: 0.13828136516241774
+  param_kernel: poly
+  param_degree: 3
+best_parameters: 
+train: 0.8672566371681416
+verify: 0.85
+
